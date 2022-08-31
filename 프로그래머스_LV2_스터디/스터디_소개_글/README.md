@@ -34,9 +34,8 @@
 ## 조건
 
 - KOALA 코테 스터디 or 모의 테스트 반 진행을 완료하신 분
-- + 아래의 문제를 **한 시간**안에 해결할 수 있는 분 (2021 카카오 채용연계형 인턴십 - 거리두기 확인하기)
+- + 아래의 문제를 **한 시간**안에 해결할 수 있는 분
+    - [2021 카카오 채용연계형 인턴십 - 거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)
     - 지원하기 전에 꼭 풀어 보시길 바래요!
-
-[](https://school.programmers.co.kr/learn/courses/30/lessons/81302)
 
 - 백준 [Solved.ac](http://Solved.ac) 기준 실버3~골드5 난이도를 해결 가능한 분
